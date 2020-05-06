@@ -1,0 +1,39 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_blaize">
+	<key name="blaize_phone_no" />
+    <key name="blaize_slide_cap_title_1" />
+    <key name="blaize_slide_cap_descr_1" />
+    <key name="blaize_slide_btn_text_1" />
+    <key name="blaize_slide_cap_title_2" />
+    <key name="blaize_slide_cap_descr_2" />
+    <key name="blaize_slide_btn_text_2" />
+    <key name="blaize_slide_cap_title_3" />
+    <key name="blaize_slide_cap_descr_3" />
+    <key name="blaize_slide_btn_text_3" />
+    <key name="blaize_service_title" />
+    <key name="blaize_service_desc_text" />
+    <key name="blaize_about_title" />
+    <key name="blaize_about_desc_text" />
+    <key name="blaize_about_readmore_text" />
+    <key name="blaize_counter_title1" />
+    <key name="blaize_counter_title2" />
+    <key name="blaize_counter_title3" />
+    <key name="blaize_counter_title4" />
+    <key name="blaize_portfolio_title" />
+    <key name="blaize_portfolio_desc_text" />
+    <key name="blaize_team_title" />
+    <key name="blaize_team_desc_text" />
+    <key name="blaize_video_title" />
+    <key name="blaize_video_desc_text" />
+    <key name="blaize_video_readmore_text" />
+    <key name="blaize_testimonial_title" />
+    <key name="blaize_testimonial_desc_text" />
+    <key name="blaize_blog_title" />
+    <key name="blaize_blog_desc_text" />
+    <key name="blaize_blog_readmore_text" />
+    <key name="blaize_partner_title" />
+    <key name="blaize_footer_text" />
+</key>
+</admin-texts>
+</wpml-config>

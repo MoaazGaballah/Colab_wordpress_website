@@ -1,0 +1,62 @@
+/** Welcome Page Styles **/
+.wc-section {
+    margin-top: 20px;
+    width:  1140px;
+}
+
+.wc-section .plugin-wrap {
+    width: 31.60%;
+    float: left;
+    background: #fff;
+    margin: 7px;
+    border: 2px solid #eaeaea;
+}
+
+.btn-wrapper {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.plugin-meta {
+    text-align: center;
+    font-size: 16px;
+    padding: 15px;
+}
+
+.theme-introduction {
+    padding: 15px;
+}
+
+.theme-guide {
+    width: 46%;
+    float: left;
+    padding: 15px 20px 27px 20px;
+    min-height: 150px;
+}
+
+.chat-n-support {
+    width: 46%;
+    float: right;
+    padding: 15px 20px 27px 20px;
+    min-height: 150px;
+}
+
+.install-plugin-notice {
+    padding: 20px;
+}
+
+.install-plugin-notice .btn-wrapper {
+    text-align: left;
+}
+
+.theme-notice {
+    padding: 24px;
+    background: #357929;
+    border-color: #246518;
+    color: #fff;
+}
+
+.theme-notice a{
+    color: #ff5e00;
+    font-weight: bold;
+}
